@@ -1,3 +1,7 @@
 body {
-    background-image: linear-gradient(to bottom right, white,purple)
+    background-image: linear-gradient(to bottom right, white,purple);
+}
+#sailors_hornpipe {
+    width: 100px;
+    height: 150px;
 }
