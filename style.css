@@ -1,3 +1,4 @@
-div {
-    background-image: linear-gradient(bottom right, white, purple);
+body {
+    background-color: grey;
+    color: white;
 }
