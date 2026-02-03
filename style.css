@@ -1,0 +1,8 @@
+body {
+     background-color: grey;
+    color: white;
+}
+#back_arrow {
+    width:50px;
+    height:50px;
+}
